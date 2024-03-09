@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "203f28db88625629",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Эксперименты с Docker на VPS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker.md",
+                "file": "Эксперименты с Docker на VPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker.md",
+                "file": "Эксперименты с Docker на VPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker.md"
+                "file": "Эксперименты с Docker на VPS.md"
               }
             }
           }
@@ -159,12 +171,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5c28c317f344d5a6",
+  "active": "203f28db88625629",
   "lastOpenFiles": [
+    "Pasted image 20240309081136.png",
     "Моуэт Э. Использование Docker.md",
+    "Эксперименты с Docker на VPS.md",
+    "Docker.md",
     "Pasted image 20240307111106.png",
     "Книги.md",
-    "Docker.md",
     "README.md"
   ]
 }

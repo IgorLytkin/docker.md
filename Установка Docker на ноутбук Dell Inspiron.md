@@ -1,5 +1,3 @@
-[[Эксперименты на VPS]]
-
 Соединение по ssh с ноутбуком
 ssh -v -i "C:\Users\igorl\YandexDisk\Igor2024\id_rsa" liv@igor2024
 

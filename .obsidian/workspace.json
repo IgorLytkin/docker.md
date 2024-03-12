@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Установка агента Portainer.md",
+                "file": "Docker Compose для разработчика 2023 Годзурас Эммануил.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Установка агента Portainer.md",
+                "file": "Docker Compose для разработчика 2023 Годзурас Эммануил.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Установка агента Portainer.md",
+                "file": "Docker Compose для разработчика 2023 Годзурас Эммануил.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Установка агента Portainer.md"
+                "file": "Docker Compose для разработчика 2023 Годзурас Эммануил.md"
               }
             }
           }
@@ -217,6 +217,8 @@
   },
   "active": "b642bf1a728bbe86",
   "lastOpenFiles": [
+    "Установка Docker на ноутбук Dell Inspiron.md",
+    "Установка агента Portainer.md",
     "Portainer - управление Docker.md",
     "neofetch - утилита.md",
     "Docker Compose для разработчика 2023 Годзурас Эммануил.md",
@@ -232,8 +234,6 @@
     "Эксперименты на VPS.md",
     "Docker.md",
     "Эксперименты с Docker на VPS.md",
-    "Установка Docker на ноутбук Dell Inspiron.md",
-    "Установка агента Portainer.md",
     "Сброс пароля admin Portainer.md",
     "Обновление пакетов Ubuntu на VPS - 08.03.2024.md",
     "Доступ к DockeHub по Token на ноутбуке Dell igor2024.md",

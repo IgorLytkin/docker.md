@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ce7b1a4eb8684ce2",
+        "id": "6a8e0bea63801f3f",
         "type": "tabs",
         "children": [
           {
-            "id": "541f601f3a2233f5",
+            "id": "bf380961a6482b0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,24 +173,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "541f601f3a2233f5",
+  "active": "bf380961a6482b0a",
   "lastOpenFiles": [
-    "docker.md/Установка агента Portainer.md",
-    "docker.md/Сброс пароля admin Portainer.md",
-    "docker.md/Сборник заметок о технологии Docker.md",
-    "docker.md/Portainer - управление Docker.md",
     "docker.md/Вопросы.md",
-    "docker.md/Доступ к DockeHub по Token на ноутбуке Dell igor2024.md",
-    "docker.md/Docker.md",
-    "docker.md/Pasted image 20240307111106.png",
+    "docker.md/Эксперименты с Docker на VPS.md",
     "docker.md/neofetch - утилита.md",
     "docker.md/Docker Compose для разработчика 2023 Годзурас Эммануил.md",
     "docker.md/Docker Compose.md",
-    "docker.md/Эксперименты с Docker на VPS.md",
-    "docker.md/Установка Docker на ноутбук Dell Inspiron.md",
+    "docker.md/Docker.md",
     "docker.md/Обновление пакетов Ubuntu на VPS - 08.03.2024.md",
-    "docker.md/Моуэт Э. Использование Docker.md",
     "docker.md/Книги.md",
+    "docker.md/Portainer - управление Docker.md",
+    "docker.md/Установка агента Portainer.md",
+    "docker.md/Сброс пароля admin Portainer.md",
+    "docker.md/Сборник заметок о технологии Docker.md",
+    "docker.md/Доступ к DockeHub по Token на ноутбуке Dell igor2024.md",
+    "docker.md/Pasted image 20240307111106.png",
+    "docker.md/Установка Docker на ноутбук Dell Inspiron.md",
+    "docker.md/Моуэт Э. Использование Docker.md",
     "docker.md/Зачем изучать Docker.md",
     "Новый текстовый документ.txt",
     "Pasted image 20240310103329.png",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Debian.md",
+                "file": "Энергетика.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Debian"
+              "title": "Энергетика"
             }
           }
         ]
@@ -175,8 +175,9 @@
   },
   "active": "b72b7ec8d278f760",
   "lastOpenFiles": [
-    "Portainer - управление Docker.md",
     "Debian.md",
+    "Энергетика.md",
+    "Portainer - управление Docker.md",
     "Вопросы.md",
     "Книги.md",
     "Docker Compose для разработчика 2023 Годзурас Эммануил.md",

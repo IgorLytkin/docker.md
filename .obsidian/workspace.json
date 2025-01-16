@@ -175,6 +175,7 @@
   },
   "active": "b72b7ec8d278f760",
   "lastOpenFiles": [
+    "Docker.md",
     "Debian.md",
     "Энергетика.md",
     "Portainer - управление Docker.md",
@@ -193,7 +194,6 @@
     "Pasted image 20240309081136.png",
     "Pasted image 20240307111106.png",
     "Эксперименты на VPS.md",
-    "Docker.md",
     "Эксперименты с Docker на VPS.md",
     "Сброс пароля admin Portainer.md",
     "Обновление пакетов Ubuntu на VPS - 08.03.2024.md",

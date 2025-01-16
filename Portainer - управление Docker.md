@@ -10,7 +10,7 @@ https://habr.com/ru/companies/rtlabs/articles/577580/
 
 PROD
 
-Использование Portianer для управления платформой VMmanager
+[Использование Portianer для управления платформой VMmanager]
 astraadmin@VMmanager:~$ sudo docker volume create portainer_data
 astraadmin@VMmanager:~$ sudo docker run -d -p 8000:8000 -p 9443:9443 --name=portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer-ce:2.21.5
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы.md",
+                "file": "Portainer - управление Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вопросы"
+              "title": "Portainer - управление Docker"
             }
           }
         ]
@@ -175,8 +175,8 @@
   },
   "active": "b72b7ec8d278f760",
   "lastOpenFiles": [
-    "Portainer - управление Docker.md",
     "Вопросы.md",
+    "Portainer - управление Docker.md",
     "Книги.md",
     "Docker Compose для разработчика 2023 Годзурас Эммануил.md",
     "Установка Docker на ноутбук Dell Inspiron.md",

@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "0069afbb058e58fc",
+    "id": "a1fbb21e643d8617",
     "type": "split",
     "children": [
       {
-        "id": "be9ead207d5f706a",
+        "id": "e576820ea07b291f",
         "type": "tabs",
         "children": [
           {
-            "id": "b72b7ec8d278f760",
+            "id": "8e0fa83a65812923",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,37 +20,22 @@
               "icon": "lucide-file",
               "title": "Энергетика"
             }
-          },
-          {
-            "id": "0b4091b865be9987",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VMmanager.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "VMmanager"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "515fb3957b607bda",
+    "id": "b83b2c05a6218ba1",
     "type": "split",
     "children": [
       {
-        "id": "2e6deedf4ab918af",
+        "id": "d066629e5007d1b8",
         "type": "tabs",
         "children": [
           {
-            "id": "44aca3f6d006b1cf",
+            "id": "e28a23ab43d6abb8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +47,7 @@
             }
           },
           {
-            "id": "cc25fd48ab2984dc",
+            "id": "e168f3fc1393f175",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +64,7 @@
             }
           },
           {
-            "id": "3a4085514944ab3a",
+            "id": "89e4eb3e623e1adc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -95,20 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "dae7b2c4a34898b5",
+    "id": "b2a1ce61788b39da",
     "type": "split",
     "children": [
       {
-        "id": "3c318c34a1dced19",
+        "id": "e3664b27008bbbb8",
         "type": "tabs",
         "children": [
           {
-            "id": "d5185dde61e98574",
+            "id": "1044a6b8b9524415",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Portainer - управление Docker.md",
+                "file": "Энергетика.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Portainer - управление Docker"
+              "title": "Обратные ссылки для Энергетика"
             }
           },
           {
-            "id": "07409b4f8c8e99a7",
+            "id": "33fa0f52606da39d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Portainer - управление Docker.md",
+                "file": "Энергетика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Portainer - управление Docker"
+              "title": "Исходящие ссылки из Энергетика"
             }
           },
           {
-            "id": "f6e2f6e3e5ef0c16",
+            "id": "539d6b7f2aefeb2d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,19 +134,19 @@
             }
           },
           {
-            "id": "dda71cc62921df43",
+            "id": "180205e0728d801b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Portainer - управление Docker.md"
+                "file": "Энергетика.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Portainer - управление Docker"
+              "title": "Структура Энергетика"
             }
           },
           {
-            "id": "d76bbe9a2fe4ab07",
+            "id": "8d3b1d806dfb3fec",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -188,31 +173,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b4091b865be9987",
-  "lastOpenFiles": [
-    "Энергетика.md",
-    "VMmanager.md",
-    "Docker.md",
-    "Debian.md",
-    "Вопросы.md",
-    "Portainer - управление Docker.md",
-    "Книги.md",
-    "Docker Compose для разработчика 2023 Годзурас Эммануил.md",
-    "Установка Docker на ноутбук Dell Inspiron.md",
-    "Установка агента Portainer.md",
-    "neofetch - утилита.md",
-    "Docker Compose.md",
-    "Моуэт Э. Использование Docker.md",
-    "Зачем изучать Docker.md",
-    "Сборник заметок о технологии Docker.md",
-    "Pasted image 20240309111827.png",
-    "Pasted image 20240310103329.png",
-    "Pasted image 20240309081136.png",
-    "Pasted image 20240307111106.png",
-    "Эксперименты на VPS.md",
-    "Эксперименты с Docker на VPS.md",
-    "Сброс пароля admin Portainer.md",
-    "Обновление пакетов Ubuntu на VPS - 08.03.2024.md",
-    "Доступ к DockeHub по Token на ноутбуке Dell igor2024.md"
-  ]
+  "active": "8d3b1d806dfb3fec",
+  "lastOpenFiles": []
 }

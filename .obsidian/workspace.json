@@ -11,84 +11,17 @@
             "id": "28a92fe9369757bc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b61d18574bd923ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Сборник заметок о технологии Docker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75f3a054196d1dbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Моуэт Э. Использование Docker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad9062fa57c58bd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Книги.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b642bf1a728bbe86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker Compose для разработчика 2023 Годзурас Эммануил.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcc3c713ff3c9c32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Зачем изучать Docker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e061cbfbfa4a3de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Доступ к DockeHub по Token на ноутбуке Dell igor2024.md",
-                "mode": "source",
-                "source": false
-              }
+                "aFile": "Docker Up and Running by Sean P. Kane and Karl Matthias September 2018 Second Edition.md",
+                "bFile": "Docker Up and Running by Sean P. Kane and Karl Matthias September 2018 Second Edition.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Docker Up and Running by Sean P. Kane and Karl Matthias September 2018 Second Edition"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -123,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
@@ -131,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           }
         ]
@@ -154,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker Compose для разработчика 2023 Годзурас Эммануил.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +100,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -171,10 +111,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker Compose для разработчика 2023 Годзурас Эммануил.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -185,7 +126,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           },
           {
@@ -193,20 +136,31 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Docker Compose для разработчика 2023 Годзурас Эммануил.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "d28a13e5a64fd95b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -215,28 +169,36 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "b642bf1a728bbe86",
+  "active": "28a92fe9369757bc",
   "lastOpenFiles": [
-    "Установка Docker на ноутбук Dell Inspiron.md",
-    "Установка агента Portainer.md",
-    "Portainer - управление Docker.md",
-    "neofetch - утилита.md",
-    "Docker Compose для разработчика 2023 Годзурас Эммануил.md",
-    "Docker Compose.md",
-    "Моуэт Э. Использование Docker.md",
-    "Книги.md",
-    "Зачем изучать Docker.md",
-    "Сборник заметок о технологии Docker.md",
-    "Pasted image 20240309111827.png",
-    "Pasted image 20240310103329.png",
-    "Pasted image 20240309081136.png",
-    "Pasted image 20240307111106.png",
-    "Эксперименты на VPS.md",
-    "Docker.md",
+    "Pasted image 20240313090743.png",
+    "2024-07-10.md",
+    "2024-07-03.md",
     "Эксперименты с Docker на VPS.md",
     "Сброс пароля admin Portainer.md",
+    "Установка Docker на ноутбук Dell Inspiron.md",
+    "Установка агента Portainer.md",
+    "Без названия.canvas",
+    "VPS Singularity2 (cloud.ru).md",
+    "Хронология.md",
+    "Эксперименты на VPS.md",
+    "Сборник заметок о технологии Docker.md",
     "Обновление пакетов Ubuntu на VPS - 08.03.2024.md",
+    "Моуэт Э. Использование Docker.md",
+    "Portainer - управление Docker.md",
+    "Docker.md",
+    "Книги.md",
+    "Зачем изучать Docker.md",
     "Доступ к DockeHub по Token на ноутбуке Dell igor2024.md",
-    "Вопросы.md"
+    "Вопросы для изучения.md",
+    "Docker Up and Running by Sean P. Kane and Karl Matthias September 2018 Second Edition.md",
+    "Docker Compose.md",
+    "Docker Compose для разработчика 2023 Годзурас Эммануил.md",
+    "Pasted image 20240307111106.png",
+    "neofetch - утилита.md",
+    "9.md",
+    "Pasted image 20240309111827.png",
+    "Pasted image 20240310103329.png",
+    "Pasted image 20240309081136.png"
   ]
 }

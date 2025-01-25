@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f3726081db3485df",
+        "id": "ad07f80832059157",
         "type": "tabs",
         "children": [
           {
-            "id": "28a92fe9369757bc",
+            "id": "bedcfbe18783c85c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Docker Up and Running by Sean P. Kane and Karl Matthias September 2018 Second Edition.md",
-                "bFile": "Docker Up and Running by Sean P. Kane and Karl Matthias September 2018 Second Edition.md",
-                "aRef": ""
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Docker Up and Running by Sean P. Kane and Karl Matthias September 2018 Second Edition"
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -169,8 +169,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "28a92fe9369757bc",
+  "active": "bedcfbe18783c85c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Энергетика.md",
+    "VMmanager.md",
+    "Debian.md",
     "Pasted image 20240313090743.png",
     "2024-07-10.md",
     "2024-07-03.md",
@@ -196,7 +200,6 @@
     "Docker Compose для разработчика 2023 Годзурас Эммануил.md",
     "Pasted image 20240307111106.png",
     "neofetch - утилита.md",
-    "9.md",
     "Pasted image 20240309111827.png",
     "Pasted image 20240310103329.png",
     "Pasted image 20240309081136.png"
